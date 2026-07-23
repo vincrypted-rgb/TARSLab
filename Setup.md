@@ -1,6 +1,6 @@
 # Guided Instruction for using the **JPCERT Tool Analysis Result Sheet**
 
->[!TIP] ### What is the **JPCERT Tool Analysis Result Sheet?**
+>[!TIP!] What is the **JPCERT Tool Analysis Result Sheet?**
 > The JPCERT Tool Analysis Result Sheet (sometimes reffered to as just Tool Analysis) is a list, created by **Japan Computer Emergency Response Team**, which is more specifically known as the JPCERT Coordination Center, or JPCERT/CC. This list shows the log results after the use of 49 different **Windows** tools. The Tool Analysis Result Sheet is most commonly used by **blue teamers, incident responders, and threat hunters looking for lateral movement inside of a system or network.**
 
 > The [Github for the Tool Analysis Result Sheet](https://jpcertcc.github.io/ToolAnalysisResultSheet/) has multiple linked reports and more information regarding the background and the uses of it that this lab may not cover.
